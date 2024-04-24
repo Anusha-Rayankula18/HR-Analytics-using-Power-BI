@@ -5,7 +5,7 @@ HR analytics aim to provide insight into how best to manage employees and reach 
 
 Tools Used:
 
-Power BI
+. Power BI
 
 Power Query
 
