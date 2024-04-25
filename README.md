@@ -5,21 +5,21 @@ HR analytics aim to provide insight into how best to manage employees and reach 
 
 Tools Used:
 
-. Power BI
+ • Power BI
 
-Power Query
+ • Power Query
 
-Dax Query
+ • Dax Query
 
 Cleaning and Analyzing using Power Query:
 
-Open Excel and connect to your employee data
-Use Power Query to clean and transform the data
-Create a copy template for one sheet in Power Query transformations and apply the same transformations to all sheets
-Apply all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types
-Create a parameter to select the desired data based on a specific condition
-Encapsulate all steps into a function to be reused for future sheets and data
-Load and Apply the cleaned data into Power BI
+ • Open Excel and connect to your employee data
+ • Use Power Query to clean and transform the data
+ • Create a copy template for one sheet in Power Query transformations and apply the same transformations to all sheets
+ • Apply all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types
+ • Create a parameter to select the desired data based on a specific condition
+ • Encapsulate all steps into a function to be reused for future sheets and data
+ • Load and Apply the cleaned data into Power BI
 
 Exploring and Manipulate Some Data Using DAX Query:
 
@@ -28,12 +28,19 @@ Create Measures and columns Using DAX functions such as count, sum function for 
 
 Power BI Dashboard Visualization:
 
-Design the dashboard layout
-Create a measure table to aggregate and display the data using Dax functions
-Use Visulizations for charts and filters for filter dashboard
-Now, Add Title HR Dashboard
-Add Month column as Slicer and add some informative KPI.
-Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
+ • Design the dashboard layout
+ • Create a measure table to aggregate and display the data using Dax functions
+ • Use Visulizations for charts and filters for filter dashboard
+ • Now, Add Title HR Dashboard
+ • Add Month column as Slicer and add some informative KPI.
+ • Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
+
+(https://github.com/Anusha-Rayankula18/HR-Analytics-using-Power-BI/assets/167794071/90343955-2b8b-4c8c-bd85-043596511ad4)
+
+
+
+
+
 
 Conclusion:
 
