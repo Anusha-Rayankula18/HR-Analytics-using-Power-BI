@@ -35,13 +35,10 @@ Power BI Dashboard Visualization:
  • Add Month column as Slicer and add some informative KPI.
  • Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
 
-(https://github.com/Anusha-Rayankula18/HR-Analytics-using-Power-BI/assets/167794071/90343955-2b8b-4c8c-bd85-043596511ad4)
-
-
-
-
-
-
-Conclusion:
+ Conclusion:
 
 Analyzed employee data to identify trends and insights using Power Query and DAX in Power BI. Created an interactive dashboard to track employee turnover and reasons for attrition. Discovered that salespeople are leaving the company in greater numbers due to a lower salary and stagnant hike rates. Provided visualizations and actionable insights to the HR team to address the issue and retain employees.
+
+
+(https://github.com/Anusha-Rayankula18/HR-Analytics-using-Power-BI/assets/167794071/90343955-2b8b-4c8c-bd85-043596511ad4)
+
